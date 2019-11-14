@@ -1,0 +1,9 @@
+C:\Users\Wilfred\source\repos\ProyectoFinalLFP\bin\Debug\ProyectoFinalLFP.exe.config
+C:\Users\Wilfred\source\repos\ProyectoFinalLFP\bin\Debug\ProyectoFinalLFP.exe
+C:\Users\Wilfred\source\repos\ProyectoFinalLFP\bin\Debug\ProyectoFinalLFP.pdb
+C:\Users\Wilfred\source\repos\ProyectoFinalLFP\obj\Debug\ProyectoFinalLFP.csprojAssemblyReference.cache
+C:\Users\Wilfred\source\repos\ProyectoFinalLFP\obj\Debug\ProyectoFinalLFP.Form1.resources
+C:\Users\Wilfred\source\repos\ProyectoFinalLFP\obj\Debug\ProyectoFinalLFP.Properties.Resources.resources
+C:\Users\Wilfred\source\repos\ProyectoFinalLFP\obj\Debug\ProyectoFinalLFP.csproj.GenerateResource.cache
+C:\Users\Wilfred\source\repos\ProyectoFinalLFP\obj\Debug\ProyectoFinalLFP.exe
+C:\Users\Wilfred\source\repos\ProyectoFinalLFP\obj\Debug\ProyectoFinalLFP.pdb

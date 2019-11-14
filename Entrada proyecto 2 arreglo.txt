@@ -1,0 +1,11 @@
+class Class1
+{
+static void Main(string[] args)
+{
+int[] arreglo = { 1, 2, 3, 4 };
+int[] arreglo1 = new int[];
+arreglo1 = arreglo;
+Console.WriteLine(arreglo);
+graficarVector(arreglo, "Vector1");
+}
+}
